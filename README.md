@@ -128,7 +128,7 @@ Frontend will run at `http://localhost:4200`
 * Simple SQLite CRUD operations with Node.js/Express
 
 ---
-
+---
 # Student Manager (DE)
 
 Eine einfache **Angular + Node.js + SQLite** Webanwendung zur Verwaltung von Schülern und deren Noten.
